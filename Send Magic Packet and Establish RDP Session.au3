@@ -14,11 +14,11 @@
 AutoItSetOption("MustDeclareVars", 1)
 
 ; MAC address of the computer that magic packet will target
-Const $eMAC_Address = "b4:2e:99:3b:ca:56"
+Const $eMAC_Address = "ab:cd:ef:g1:23:45"
 
 ;This is the address of the computer you are attempting to connect to.
 ;This can either be the IP address, the host name or FQDN of the computer.
-Const $eRemoteComputerAddress = "192.168.50.2"
+Const $eRemoteComputerAddress = "hostname.domain.com"
 
 ;********************************************************
 ; Check to see if remote computer address is an IP address
