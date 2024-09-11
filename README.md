@@ -22,15 +22,15 @@ The script first sends the Wake-on-LAN packet to wake the computer. Then, it che
 
 <p align="center">
 Connection Attempt: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/1uxF1V9)" height="80%" width="80%" alt="Connection Attempt"/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Connection Attempt"/>
 <br />
 <br />
 RDP Login Prompt:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/dP79sB2)" height="80%" width="80%" alt="RDP Login Prompt"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="RDP Login Prompt"/>
 <br />
 <br />
 Unable to Connect Error: <br/>
-<img src="[https://i.imgur.com/nCIbXbg.png](https://imgur.com/gPbNMbw)" height="80%" width="80%" alt="Unable to Connect"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Unable to Connect"/>
 </p>
 
 <!--
