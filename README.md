@@ -26,7 +26,7 @@ Connection Attempt: <br/>
 <br />
 <br />
 RDP Login Prompt:  <br/>
-<img src="https://i.imgur.com/dp79sB2.png" height="80%" width="80%" alt="RDP Login Prompt"/>
+<img src="https://i.imgur.com/dP79sB2.png" height="80%" width="80%" alt="RDP Login Prompt"/>
 <br />
 <br />
 Unable to Connect Error: <br/>
