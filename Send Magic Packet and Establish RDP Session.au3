@@ -6,7 +6,7 @@
 ; Finalized:      02.15.2017 at 1000
 ;
 ; Script Function:
-;	Send a magic packet to selected computer.
+;	Send a magic packet to selected computer and establish RDP session.
 ;
 
 #include <MsgBoxConstants.au3>
